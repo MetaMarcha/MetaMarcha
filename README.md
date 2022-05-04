@@ -45,10 +45,6 @@
   </div>
   
   
- <!--<div align="center">
-    <h1>O time</h1>
-  </div>-->
-  
   ##
   
   
@@ -70,7 +66,7 @@
     
   <!-- Júlia -->
   <a href="https://github.com/Unijuba">
-    <img src=" " alt="Dev: Júlia" width="210">
+    <img src="https://user-images.githubusercontent.com/59957939/166727484-99517093-6db0-4c2a-8a7e-a56f95304e3e.png" alt="Dev: Júlia" width="210">
   </a>
   <!-- Júlia -->
  </div> 
@@ -82,7 +78,7 @@
    
   <!-- Beatriz -->
   <a href="https://github.com/beatrixiez">
-    <img src=" " alt="Dev: Beatriz" width="200">
+    <img src="https://user-images.githubusercontent.com/59957939/166727422-583160a1-1398-4624-8095-92bf08cd8707.png" alt="Dev: Beatriz" width="200">
   </a>
   <!-- Beatriz -->
    
@@ -94,7 +90,7 @@
    
   <!-- Michely -->
   <a href="https://github.com/MichellyNonatto">
-    <img src=" " alt="Dev: Michely" width="200">
+    <img src="https://user-images.githubusercontent.com/59957939/166701255-b9bb8316-d47e-4547-b068-f6bf19a61d21.png" alt="Dev: Michely" width="200">
   </a>
   <!-- Michely -->
    
