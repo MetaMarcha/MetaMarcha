@@ -44,4 +44,65 @@
      Nós acreditamos na acessibilidade e democratização para juntos criarmos um futuro melhor. Para isso, prometemos preços baixos e um sistema de comunicação onde a equipe e o cliente trabalham em parceria, atendendo suas necessidades e melhorando constantemente a plataforma. 
   </div>
   
- 
+  
+ <!--<div align="center">
+    <h1>O time</h1>
+  </div>-->
+  
+  ##
+  
+  
+  <div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=46FF46&size=18&duration=8000&center=true&vCenter=true&width=800&lines=Desenvolvedores+Front-End:;)](https://git.io/typing-svg)
+  
+  <!-- Amanda -->
+  <a href="https://github.com/amandavalentim">
+    <img src="https://user-images.githubusercontent.com/59957939/166702766-d5c2a89e-a2d1-481b-97d4-08da621fd94d.png" alt="Dev: Amanda" width="210">
+  </a>
+  <!-- Amanda -->
+
+  <!-- Camila -->
+  <a href="https://github.com/CamilaCSoares">
+    <img src="https://user-images.githubusercontent.com/59957939/166705341-047b9089-c373-4c7c-953c-bc23d0e0fd3b.png" alt="Dev: Camila" width="210">
+  </a>
+  <!-- Camila -->
+    
+  <!-- Júlia -->
+  <a href="https://github.com/Unijuba">
+    <img src=" " alt="Dev: Júlia" width="210">
+  </a>
+  <!-- Júlia -->
+ </div> 
+  
+
+ <div align="center">  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=46FF46&size=18&duration=8000&center=true&vCenter=true&width=800&lines=Desenvolvedores+Back-End:;)](https://git.io/typing-svg)
+   
+  <!-- Beatriz -->
+  <a href="https://github.com/beatrixiez">
+    <img src=" " alt="Dev: Beatriz" width="200">
+  </a>
+  <!-- Beatriz -->
+   
+  <!-- João -->
+  <a href="https://github.com/jpedr1nho">
+    <img src="https://user-images.githubusercontent.com/59957939/166700568-660daea3-0ff3-47d3-907c-7aced6660c55.png" alt="Dev: João" width="200">
+  </a>
+  <!-- João -->
+   
+  <!-- Michely -->
+  <a href="https://github.com/MichellyNonatto">
+    <img src=" " alt="Dev: Michely" width="200">
+  </a>
+  <!-- Michely -->
+   
+  <!-- Samara -->
+  <a href="https://github.com/jovemfs">
+    <img src="https://user-images.githubusercontent.com/59957939/166698019-35d44070-8cf4-40ab-b1eb-37d5e95a6e30.png" alt="Dev: Samara" width="200">
+  </a>
+  <!-- Samara -->
+   
+ </div>
+  
