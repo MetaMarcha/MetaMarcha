@@ -90,10 +90,10 @@
    
   <!-- Michely -->
   <a href="https://github.com/MichellyNonatto">
-    <img src="https://user-images.githubusercontent.com/59957939/166701255-b9bb8316-d47e-4547-b068-f6bf19a61d21.png" alt="Dev: Michely" width="200">
+    <img src="https://user-images.githubusercontent.com/103958541/166830959-f3b95b4b-d6fe-4746-839a-e5ca4141b92b.png" alt="Dev: Michely" width="200">
   </a>
   <!-- Michely -->
-   
+
   <!-- Samara -->
   <a href="https://github.com/jovemfs">
     <img src="https://user-images.githubusercontent.com/59957939/166698019-35d44070-8cf4-40ab-b1eb-37d5e95a6e30.png" alt="Dev: Samara" width="200">
