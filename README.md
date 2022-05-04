@@ -54,19 +54,19 @@
   
   <!-- Amanda -->
   <a href="https://github.com/amandavalentim">
-    <img src="https://user-images.githubusercontent.com/59957939/166702766-d5c2a89e-a2d1-481b-97d4-08da621fd94d.png" alt="Dev: Amanda" width="200">
+    <img src="https://user-images.githubusercontent.com/59957939/166702766-d5c2a89e-a2d1-481b-97d4-08da621fd94d.png" alt="Dev: Amanda" width="210">
   </a>
   <!-- Amanda -->
 
   <!-- Camila -->
   <a href="https://github.com/CamilaCSoares">
-    <img src="https://user-images.githubusercontent.com/59957939/166705341-047b9089-c373-4c7c-953c-bc23d0e0fd3b.png" alt="Dev: Camila" width="200">
+    <img src="https://user-images.githubusercontent.com/59957939/166705341-047b9089-c373-4c7c-953c-bc23d0e0fd3b.png" alt="Dev: Camila" width="210">
   </a>
   <!-- Camila -->
     
   <!-- Júlia -->
   <a href="https://github.com/Unijuba">
-    <img src="https://user-images.githubusercontent.com/59957939/166727484-99517093-6db0-4c2a-8a7e-a56f95304e3e.png" alt="Dev: Júlia" width="200">
+    <img src="https://user-images.githubusercontent.com/59957939/166727484-99517093-6db0-4c2a-8a7e-a56f95304e3e.png" alt="Dev: Júlia" width="210">
   </a>
   <!-- Júlia -->
  </div> 
