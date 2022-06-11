@@ -4,7 +4,7 @@
     <img src="https://user-images.githubusercontent.com/59957939/166427158-f07faf6a-2661-423a-8135-27a0d5b9cbba.png" alt="Meta Marcha logo" width="500">
   </a>
   
-  Somos um ERP (sistema de gestão integrado) com trabalho de base, ajudando na gestão de pequenas empresas, capacitando empreendedores e mostrando que a tecnologia pode ser uma grande aliada.
+  Somos um ERP (sistema integrado de gestão) com trabalho de base, ajudando na gestão de pequenas empresas, capacitando empreendedores e mostrando que a tecnologia pode ser uma grande aliada.
 </div>
 <!-- sobre mós -->
 
