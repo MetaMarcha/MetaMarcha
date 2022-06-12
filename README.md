@@ -102,7 +102,7 @@
  
  <!-- social -->
  <div align="center">
-   <a href="https://www.instagram/metamarcha" alt="Instagram">
+   <a href="https://www.instagram.com/metamarcha" alt="Instagram">
    <img src="https://img.shields.io/badge/-Instagram-3a993f?style=for-the-badge&logo=instagram&logoColor=FFF&link=https://www.instagram.com/metamarcha/"/></a>
    <a href="mailto:metamarchag8@gmail.com" alt="Gmail">
    <img src="https://img.shields.io/badge/-Gmail-3a993f?style=for-the-badge&logo=gmail&logoColor=FFF&link=mailto:metamarchag8@gmail.com"/></a>
