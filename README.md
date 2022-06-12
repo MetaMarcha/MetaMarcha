@@ -96,3 +96,15 @@
    
  </div>
  <!-- BACK END -->
+ 
+ ##
+ <br>
+ 
+ <div align="center">
+<!-- social -->
+   <a href="https://www.instagram/metamarcha" alt="Instagram">
+   <img src="https://img.shields.io/badge/-Instagram-3a993f?style=for-the-badge&logo=instagram&logoColor=FFF&link=https://www.instagram.com/metamarcha/"/></a>
+   <a href="mailto:metamarchag8@gmail.com" alt="Gmail">
+   <img src="https://img.shields.io/badge/-Gmail-3a993f?style=for-the-badge&logo=gmail&logoColor=FFF&link=mailto:metamarchag8@gmail.com"/></a>
+   <!-- CORES: 296b2c | 3a993f -->
+</div>
