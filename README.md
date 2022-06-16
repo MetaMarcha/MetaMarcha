@@ -44,7 +44,6 @@
   <div align="center">
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=46FF46&size=18&duration=8000&center=true&vCenter=true&width=800&lines=Desenvolvedores+Front-End:;)](https://git.io/typing-svg)
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Outfit&color=46FF46&size=20&duration=8000&center=true&vCenter=true&width=800&lines=Desenvolvedores+Front-End:;)](https://git.io/typing-svg) -->
   
   <!-- Amanda -->
   <a href="https://github.com/amandavalentim">
